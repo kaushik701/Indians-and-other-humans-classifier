@@ -1,4 +1,4 @@
-## Indian And Other Images Classifier ##
+## Indian Humans And Other Images Classifier ##
 Images Link: https://drive.google.com/drive/folders/1ISQH7sHa2oN73Vq678t0HdXj1FzFL1__?usp=sharing
 
 Consists of 5 Folders: 1.Dark
